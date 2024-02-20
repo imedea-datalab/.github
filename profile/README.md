@@ -1,5 +1,7 @@
 # Data Lab @ IMEDEA
 
+![Logo del Data Lab](https://github.com/Data-Lab-IMEDEA/.github/blob/main/reduced_logo_95.jpg "Logo del Data Lab de IMEDEA")
+
 ## ¿Quiénes somos?
 
 El Data Lab del Instituto Mediterráneo de Estudios Avanzados (IMEDEA) es una iniciativa que ofrece soluciones a medida para proyectos que requieren del asesoramiento
