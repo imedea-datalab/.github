@@ -21,6 +21,7 @@ para el aprendizaje de estos temas.
 Aquí puedes encontrar algunos de los proyectos o workshops en los que hemos o estamos trabajando.
 
 - [Workshop: Introducción a IA](https://github.com/Data-Lab-IMEDEA/workshop-intro-to-AI)
+- Pollinator detection: https://github.com/aranchalana/POLLINATOR
 
 Para ver todos nuestros proyectos, visita [nuestros repositorios](https://github.com/orgs/Data-Lab-IMEDEA/repositories).
 
